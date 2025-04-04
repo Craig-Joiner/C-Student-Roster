@@ -67,3 +67,8 @@ This is a **C++ console application** that manages and displays a roster of stud
 
 ![image](https://github.com/user-attachments/assets/ddcc1934-6a5b-48ea-b447-d7e45a790de4)
 
+## 🙋‍♂️ Author
+
+**Craig Joiner**  
+[GitHub Profile](https://github.com/Craig-Joiner)
+
